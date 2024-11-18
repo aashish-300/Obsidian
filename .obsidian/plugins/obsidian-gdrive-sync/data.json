@@ -1,0 +1,41 @@
+{
+  "refreshToken": "1//05YrJIWAGpgwKCgYIARAAGAUSNwF-L9IruwBHt_zrWP0aLCUt-oz9RN4GMZLM-ULyM8mQaWQ5I_nEdHQEiAo-ML6jFcTtmcsGwDY",
+  "accessToken": "ya29.a0AeDClZD1Txl91oXKG348-pMlQ1gc_VQTpAOsdbqS7a3EsbBydG3O6JQfr9qt57csinqIoRn-szzxM6x5MW5f6npyd9eNvd6lSQOfYz3Tz75h9YHzUgsDN67YFzzn8PpStoEypwdTSE7Kc8LW4-in5ZxSjxorNwNMuW1Iwnt3SW4aCgYKARYSARISFQHGX2Miq_Vc325FgmZHBfisnsn9jQ0178",
+  "accessTokenExpiryTime": 1731913490915,
+  "validToken": true,
+  "vaultId": "1A-ae_Z1UOaf23HgPeCp-swYK-861ERAy",
+  "filesList": [
+    {
+      "mimeType": "application/json",
+      "id": "142wjHrgPtH4shPzHgvhQigel7WSaQ7SM",
+      "name": "JAVA/Configuration.md",
+      "modifiedTime": "2024-11-18T06:07:01.440Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1QL70mJsPKp-nSJzhi7fc9MZWovreM0CU",
+      "name": "React/Library.md",
+      "modifiedTime": "2024-11-18T05:38:51.024Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1dfIeBty8i_VD9SRoV9EFXy1jugZQJXOT",
+      "name": "Work from Home.md",
+      "modifiedTime": "2024-11-18T05:38:46.921Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1rbzFxBwzKw5rBGW-09ec5QOgOeuS_SwF",
+      "name": "Token.md",
+      "modifiedTime": "2024-11-18T05:38:42.951Z"
+    }
+  ],
+  "vaultInit": true,
+  "rootFolderId": "1j3AYUhqH8-nz48LY4oL5sKGggo5pPaxx",
+  "refresh": false,
+  "refreshTime": "5",
+  "autoRefreshBinaryFiles": "1",
+  "errorLoggingToFile": false,
+  "verboseLoggingToFile": false,
+  "blacklistPaths": []
+}
