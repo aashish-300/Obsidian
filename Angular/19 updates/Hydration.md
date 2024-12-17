@@ -1,0 +1,9 @@
+- Incremental Hydration
+	- It only renders those component which need to be hydrated and leave other section for fast rendering.
+	- types of incremental hydration
+		- [`hydrate on idle`](https://angular.dev/guide/incremental-hydration#hydrate-on-idle)|Triggers when the browser is idle.|
+		- [`hydrate on viewport`](https://angular.dev/guide/incremental-hydration#hydrate-on-viewport)|Triggers when specified content enters the viewport|
+		- [`hydrate on interaction`](https://angular.dev/guide/incremental-hydration#hydrate-on-interaction)|Triggers when the user interacts with specified element|
+		- [`hydrate on hover`](https://angular.dev/guide/incremental-hydration#hydrate-on-hover)|Triggers when the mouse hovers over specified area|
+		- [`hydrate on immediate`](https://angular.dev/guide/incremental-hydration#hydrate-on-immediate)|Triggers immediately after non-deferred content has finished rendering|
+		- [`hydrate on timer`](https://angular.dev/guide/incremental-hydration#hydrate-on-timer)|Triggers after a specific duration|

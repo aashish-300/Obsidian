@@ -1,0 +1,5 @@
+- default standalone component
+- command to update angular version
+	- ng update @angular/core19 @angular/cli@19
+- command to update angular signal 
+	- ng generate @angular/core:signals
