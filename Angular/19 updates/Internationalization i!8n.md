@@ -1,0 +1,3 @@
+- ng add @angular/localize
+- add object inside angular-lang in angular.json file
+- add 18n tag in html tag to localize
