@@ -1,0 +1,14 @@
+
+| Phase            | Method                | Summary                                                                                                                                                                    |
+| ---------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation         | constructor           | [Standard JavaScript class constructor](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes/constructor) . Runs when Angular instantiates the component.\| |
+| Change Detection | ngOnInint             | Runs once when angular has initialized all the component's input                                                                                                           |
+|                  | ngOnChanges           | Runs every time component's inputs have changes                                                                                                                            |
+|                  | ngDoCheck             | Runs every time component is checked for changes                                                                                                                           |
+|                  | ngAfterContentInit    | Runs once after the component's content has been initilized                                                                                                                |
+|                  | ngAfterContentChecked | Runs every time this component content has been checked for changes                                                                                                        |
+|                  | ngAfterViewInit       | Runs once after the component's view has been initialized                                                                                                                  |
+|                  | ngAfterViewChecked    | Runs every time component's view has been checked for changes                                                                                                              |
+| Rendering        | afterNextRender       | Runs once the next time all component's have been rendered to the DOM                                                                                                      |
+|                  | afterRender           | Runs every time all components have been rendered to the DOM                                                                                                               |
+| Destruction      | ngOnDestroy           | Runs once before the component is destroyed                                                                                                                                |
