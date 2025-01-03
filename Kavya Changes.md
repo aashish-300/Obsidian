@@ -1,0 +1,14 @@
+Working Feature
+- contact list
+- Admin
+	- Attendance devices
+	- configure
+	- Email Meta
+	- user
+- Attendance
+	- holiday
+- Student profile
+	- personal Details(except grade
+	- Transfer group
+	- Unassign group
+	- comment
