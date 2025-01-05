@@ -2,6 +2,11 @@ Need to be done
 1. global search design update -> design update
 	1. dependent on backend for group list, group list will take time 
 2. attendance details in student profile
+<<<<<<< HEAD
+3. comment section comment update for student transfer in student profile
+4. class cancel design update
+5. student punch in log (getWeeklyRoutine api)
+=======
 	1. priority high
 	2. 1 week from raghu
 	3. if backend update plus 1 day
@@ -33,3 +38,4 @@ Monday
 Tuesday 
 	nibid - 1 
 	aashish - 4
+>>>>>>> origin/master
