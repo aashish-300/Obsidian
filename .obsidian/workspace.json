@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "352f620e13f9e381",
+  "active": "f050e2c3d7864639",
   "lastOpenFiles": [
     "Angular/Build Tools.md",
     "Angular/Decorators.md",
