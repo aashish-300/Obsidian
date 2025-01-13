@@ -1,0 +1,5 @@
+- https://docs.privado.id/
+	- age based detection
+	- authentication
+	- proof of purchase
+	- kyb business verification
