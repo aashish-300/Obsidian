@@ -1,0 +1,15 @@
+- student profile -> completed
+- archive routine -> completed
+- admin  -> no changes needed
+- class cancel -> on process -> bijay
+- Routine 
+	- action center -> done
+- Report
+	- excel export
+- End semester
+	- list
+	- cancel class for faculty teacher - remaining
+	- approval for cancelled semester
+	- End classes for semester - remaining
+- student grid -> on process -> saksham
+- dashboard -> no changes needed
