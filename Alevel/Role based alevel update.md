@@ -1,0 +1,25 @@
+- student profile -> completed
+- archive routine -> completed
+- admin  -> no changes needed
+- class cancel -> completed
+- Routine 
+	- action center -> done
+- Report
+	- excel export - completed
+- End semester
+	- list - completed
+	- class for faculty teacher - remaining
+	- approval for cancelled semester
+	- End classes for semester - remaining
+- student grid -> on process -> saksham
+- dashboard -> no changes needed
+- manual attendance log -> completed
+- student punch in log -> completed
+- Holiday -> completed
+- contact list -> completed
+
+Todo
+- Routine - completedz
+- manual attendance
+- student grid -> saksham
+- Teacher log
