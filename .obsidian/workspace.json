@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Role based alevel update"
             }
+          },
+          {
+            "id": "a836d7cb0122c148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alevel/Role based alevel update.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Role based alevel update"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -231,10 +245,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "352f620e13f9e381",
+  "active": "a836d7cb0122c148",
   "lastOpenFiles": [
-    "Alevel/Alevel Changes.md",
+    "Sprint.md",
     "Alevel/Role based alevel update.md",
+    "Attendance changes",
+    "Alevel/Alevel Changes.md",
     "Alevel",
     "Angular/Build Tools.md",
     "Angular/Decorators.md",
