@@ -19,7 +19,7 @@
 - contact list -> completed
 
 Todo
-- Routine - completedz
+- Routine - completed
 - manual attendance
 - student grid -> saksham
 - Teacher log
