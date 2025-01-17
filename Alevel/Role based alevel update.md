@@ -4,7 +4,7 @@
 - class cancel -> completed
 - Routine 
 	- action center -> done
-- Report
+- Report -> completed
 	- excel export - completed
 - End semester
 	- list - completed
@@ -20,6 +20,7 @@
 
 Todo
 - Routine - completed
-- manual attendance
-- student grid -> saksham
+- manual attendance - 
+- manual attendance log
+- student grid -> saksham -> completed
 - Teacher log
