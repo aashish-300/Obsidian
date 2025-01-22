@@ -1,5 +1,6 @@
 - Incremental Hydration
 	- It only renders those component which need to be hydrated and leave other section for fast rendering.
+	- Hydration can be enabled for server-side rendered (SSR) applications only.
 	- types of incremental hydration
 		- [`hydrate on idle`](https://angular.dev/guide/incremental-hydration#hydrate-on-idle)|Triggers when the browser is idle.|
 		- [`hydrate on viewport`](https://angular.dev/guide/incremental-hydration#hydrate-on-viewport)|Triggers when specified content enters the viewport|
