@@ -1,0 +1,2 @@
+- https://ui.shadcn.com/docs/components/tabs
+- https://ui.aceternity.com/components
