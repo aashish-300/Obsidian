@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI Library.md",
+                "file": "PostgreSQL/Changing data with case statements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UI Library"
+              "title": "Changing data with case statements"
             }
           }
         ],
@@ -304,8 +304,10 @@
   },
   "active": "0b9e6300f1efbfb4",
   "lastOpenFiles": [
-    "Cloco.md",
     "UI Library.md",
+    "PostgreSQL/Changing data with case statements.md",
+    "PostgreSQL",
+    "Cloco.md",
     "Alevel/Role based alevel update.md",
     "Alevel/Alevel Changes.md",
     "Work from Home.md",
@@ -332,7 +334,6 @@
     "Angular/19 updates/Route-level render mode.md",
     "React/Library.md",
     "Angular/19 updates/Hydration.md",
-    "Angular/19 updates/Event Replay.md",
     "Angular/19 updates",
     "Angular",
     "React",
