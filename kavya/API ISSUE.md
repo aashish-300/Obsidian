@@ -1,0 +1,2 @@
+- findStudentByYearAndCourse
+	- inside groupEntity level is null
