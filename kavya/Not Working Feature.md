@@ -1,0 +1,10 @@
+- student Grid
+	- bulk transfer
+- Student Profile
+	- transfer student
+	- Attendance Details
+	- old attendance
+	- Grade value missing
+	- withdraw student
+- Routine
+- Student Punch in Log

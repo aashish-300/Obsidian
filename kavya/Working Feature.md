@@ -3,3 +3,18 @@
 	- view data 
 	- unsorted data view
 	- unsorted transfer 
+- Report
+	- view report working
+- Contact List
+- Attendance Device
+- Student Profile
+	- transfer feature
+	- unassign group
+	- edit contact
+- Configure
+- Email meta
+- Teacher
+- User
+- Absentee List need to add
+- Holiday
+- Manual Attendance Not tested yet
