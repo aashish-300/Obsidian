@@ -6,5 +6,5 @@
 	- old attendance
 	- Grade value missing
 	- withdraw student
-- Routine
 - Student Punch in Log
+- navigation update
