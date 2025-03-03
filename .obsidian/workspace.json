@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lazygit/LazyGit docs.md",
+                "file": "lazygit/Change Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LazyGit docs"
+              "title": "Change Log"
             }
           }
         ],
@@ -332,14 +332,16 @@
   },
   "active": "a6235825aa315170",
   "lastOpenFiles": [
-    "lazygit/Scoop.md",
     "lazygit/LazyGit docs.md",
+    "lazygit/Change Log.md",
+    "lazygit/Scoop.md",
+    "kavya/API ISSUE.md",
+    "kavya/Working Feature.md",
+    "kavya/Not Working Feature.md",
     "Dynieum/Docs.md",
     "lazygit",
     "Kavya Changes.md",
     "React/Library.md",
-    "kavya/Not Working Feature.md",
-    "kavya/Working Feature.md",
     "PostgreSQL/Changing data with case statements.md",
     "Cloco.md",
     "Dynieum.md",
@@ -349,7 +351,6 @@
     "UI Library.md",
     "USA.md",
     "Work from Home.md",
-    "kavya/API ISSUE.md",
     "Database",
     "kavya",
     "PostgreSQL",
@@ -364,7 +365,6 @@
     "Angular/Decorators.md",
     "Angular/ViewEncapsulation.md",
     "Angular/Pipes.md",
-    "Angular/Lifecycle.md",
     "Angular/19 updates",
     "Angular",
     "React",
