@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kavya Changes.md",
+                "file": "lazygit/LazyGit docs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kavya Changes"
+              "title": "LazyGit docs"
             }
           }
         ],
@@ -332,8 +332,12 @@
   },
   "active": "a6235825aa315170",
   "lastOpenFiles": [
-    "React/Library.md",
+    "lazygit/Scoop.md",
+    "lazygit/LazyGit docs.md",
+    "Dynieum/Docs.md",
+    "lazygit",
     "Kavya Changes.md",
+    "React/Library.md",
     "kavya/Not Working Feature.md",
     "kavya/Working Feature.md",
     "PostgreSQL/Changing data with case statements.md",
@@ -345,7 +349,6 @@
     "UI Library.md",
     "USA.md",
     "Work from Home.md",
-    "Dynieum/Docs.md",
     "kavya/API ISSUE.md",
     "Database",
     "kavya",
@@ -362,12 +365,9 @@
     "Angular/ViewEncapsulation.md",
     "Angular/Pipes.md",
     "Angular/Lifecycle.md",
-    "Angular/19 updates/Introducing resource.md",
-    "Angular/Updates.md",
     "Angular/19 updates",
     "Angular",
     "React",
-    "Untitled.canvas",
-    "JAVA"
+    "Untitled.canvas"
   ]
 }
